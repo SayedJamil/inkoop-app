@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.headerTitle {
+  font-family: "DM Serif Display", serif;
+  font-size: 2em;
+}
+
+.headerDot {
+  color: DodgerBlue;
+}
+
+.headerCenter {
+  display: flex;
+  justify-content: space-evenly;
+  paddin
+}
+
+.headerCenterFont {
+}

@@ -1,0 +1,26 @@
+.center {
+  justify-content: center;
+  display: flex;
+  margin-top: 5rem;
+  flex-direction: column;
+  align-items: center;
+}
+.centerHeading {
+  font-family: "Merriweather", serif;
+  font-weight: 900;
+  font-size: 4rem;
+}
+
+.centerHeadingBlue {
+  color: #12159f;
+}
+
+.centerText {
+  color: gray;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5em;
+}
+ 
+.centerCenter{
+    margin-top:
+}

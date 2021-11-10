@@ -1,0 +1,11 @@
+.center {
+  align-items: center;
+  display: flex;
+  margin-top: 5rem;
+  flex-direction: row;
+}
+.centerHeading {
+  font-family: "Tienne", serif;
+  font-weight: 900;
+  font-size: 4rem;
+}

@@ -1,0 +1,13 @@
+.imageText {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.imageImage {
+  height: 50%;
+}
+
+.imageTextIcons {
+  color: gray;
+}

@@ -1,0 +1,10 @@
+.imageText {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.imageImage {
+  height: 100px;
+  width: 100px;
+}

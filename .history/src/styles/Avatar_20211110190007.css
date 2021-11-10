@@ -1,0 +1,27 @@
+.avatarImage {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.avatarName {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+@media only screen and (max-width: 1600px) {
+  .avatarImage {
+    width: 50px;
+    height: 50px;
+  }
+  .avatarName{
+    
+  }
+}

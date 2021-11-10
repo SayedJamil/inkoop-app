@@ -1,0 +1,15 @@
+.featured {
+  background-color: #004687;
+  border-radius: 20px;
+  height: 20rem;
+  padding: 5rem;
+}
+
+.featuredTitle {
+  font-size: 3rem;
+  font-family: "DM Serif Display", serif;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 0;
+}

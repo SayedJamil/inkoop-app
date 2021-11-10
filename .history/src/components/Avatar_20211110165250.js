@@ -1,0 +1,11 @@
+import '../styles/Avatar.css'
+import Image2 from '../images/inkoop-app_image2.jpg'
+function Avatar() {
+    return (
+        <div className="avatar">
+            <img srrc={Image2} alt="Avatar" className="avatarImage" />
+        </div>
+    )
+}
+
+export default Avatar

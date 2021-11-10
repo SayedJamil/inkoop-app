@@ -1,0 +1,26 @@
+.imageText {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.imageImage {
+  width: 100%;
+    height:50
+  border-radius: 20px;
+}
+
+.imageTextIcons {
+  color: gray;
+}
+
+.imageTextLeft {
+  width: 50%;
+  z-index: -2;
+
+}
+
+.imageTextRight {
+  width: 40%;
+  z-index: 2;
+}

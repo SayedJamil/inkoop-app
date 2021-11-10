@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.headerTitle {
+  font-family: "DM Serif Display", serif;
+  font-size: 2em;
+}
+
+.headerDot {
+  color: DodgerBlue;
+}
+
+.headerCenter {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 25rem;
+  flex-grow: 100;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color:;
+}
+
+.headerCenterFont {
+}

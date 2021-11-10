@@ -1,0 +1,22 @@
+.featured {
+  background-color: #004687;
+  border-radius: 20px;
+  height: 30rem;
+  padding: 5rem;
+}
+
+.featuredTitle {
+  font-size: 3rem;
+  font-family: "DM Serif Display", serif;
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 0;
+}
+.featuredAvatars {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}

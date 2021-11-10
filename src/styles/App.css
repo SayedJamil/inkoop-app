@@ -1,0 +1,11 @@
+.app {
+  margin: 2rem 10rem;
+}
+.pointer{
+  cursor:pointer;
+}
+@media only screen and (max-width: 1600px) {
+  .app {
+    margin: 1rem 4rem;
+  }
+}

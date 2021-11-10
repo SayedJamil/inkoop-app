@@ -1,0 +1,7 @@
+.center {
+  justify-content: center;
+  display: flex;
+  margin-top: 5rem;
+  font-family: "Tienne", serif;
+  font-weight: 900;
+}

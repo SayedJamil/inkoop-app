@@ -1,0 +1,50 @@
+.imageText {
+  display: flex;
+  margin-top: 5rem;
+  height: auto;
+}
+
+.imageImage {
+  width: 100%;
+  height: 10%;
+  border-radius: 20px;
+}
+
+.imageTextIcons {
+  color: gray;
+  display: flex;
+  justify-content: space-evenly;
+  width: 30%;
+}
+
+.imageTextLeft {
+  width: 40%;
+  z-index: -2;
+  position: absolute;
+}
+
+.imageTextRight {
+  width: 40%;
+  z-index: 2;
+  position: relative;
+  left: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageTextBox {
+  background-color: white;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  margin-top: 20%;
+}
+
+.imageTextBox > h3 {
+  margin: 0;
+}
+.imageTextBox > h1 {
+  margin: 0;
+}
